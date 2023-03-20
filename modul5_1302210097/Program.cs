@@ -10,7 +10,7 @@ class Program
     static void Main(string[] args)
     {
         penjumlahan jum = new penjumlahan();
-        int inputan = 13 + 02 + 21;
+        int inputan = 13 + 02 + 22;
         jum.JumlahTigaAngka(inputan);
     }
 }
