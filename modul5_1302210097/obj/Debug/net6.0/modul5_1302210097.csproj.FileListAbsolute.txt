@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 D:\modul5_1302210097\modul5_1302210097\bin\Debug\net6.0\modul5_1302210097.exe
 D:\modul5_1302210097\modul5_1302210097\bin\Debug\net6.0\modul5_1302210097.deps.json
 D:\modul5_1302210097\modul5_1302210097\bin\Debug\net6.0\modul5_1302210097.runtimeconfig.json
 D:\modul5_1302210097\modul5_1302210097\bin\Debug\net6.0\modul5_1302210097.dll
 D:\modul5_1302210097\modul5_1302210097\bin\Debug\net6.0\modul5_1302210097.pdb
+=======
+>>>>>>> implementasi-generic-class
 D:\modul5_1302210097\modul5_1302210097\obj\Debug\net6.0\modul5_1302210097.csproj.AssemblyReference.cache
 D:\modul5_1302210097\modul5_1302210097\obj\Debug\net6.0\modul5_1302210097.GeneratedMSBuildEditorConfig.editorconfig
 D:\modul5_1302210097\modul5_1302210097\obj\Debug\net6.0\modul5_1302210097.AssemblyInfoInputs.cache
